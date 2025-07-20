@@ -6,8 +6,8 @@
   "homepage": "https://greciart.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/greciart/greciart.github.io.git",
-    
+    "url": "https://github.com/greciart/greciart.github.io.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
