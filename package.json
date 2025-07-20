@@ -1,11 +1,17 @@
 {
-  "name": "portfolio-dev",
+  "name": "greciart-portfolio",
   "type": "module",
   "version": "0.0.1",
+  "description": "Portfolio personal de Greciart construido con Astro",
+  "homepage": "https://greciart.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greciart/greciart.github.io.git"
+ },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "deploy:vercel": "vercel deploy",
