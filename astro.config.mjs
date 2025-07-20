@@ -28,5 +28,6 @@ export default defineConfig({
   ],
   output: "hybrid",
   adapter: vercel(),
-  site: "https://arielfalcon.me",
+  site: "https://greciart.github.io",
+  base: '/',
 });
