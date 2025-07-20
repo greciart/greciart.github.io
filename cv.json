@@ -126,6 +126,8 @@
         "HTML5": "simple-icons:html5",
         "CSS3": "ri:css3-fill",
         "Wordpress": "simple-icons:wordpress",
+        "Vibe Coding": "mdi:code-tags",
+        "Elementor": "simple-icons:elementor",
         "Git": "mdi:git",
         "GitHub": "mdi:github",
         "Figma": "simple-icons:figma",
@@ -135,7 +137,7 @@
         "Obsidian": "simple-icons:obsidian",
         "Premiere": "simple-icons:adobepremierepro",
         "VS Code": "simple-icons:visualstudiocode",
-        "Pixelorama": "simple-icons:pixelorama",
+        "Pixelorama": "mdi:grid",
         "Aseprite": "simple-icons:aseprite",
         "Illustrator": "simple-icons:adobeillustrator",
         "Inkscape": "simple-icons:inkscape"
