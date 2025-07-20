@@ -121,9 +121,9 @@
         "Git": "mdi:git",
         "GitHub": "mdi:github",
         "Figma": "simple-icons:figma",
-        "Photoshop": "simple-icons:photoshop",
+        "Photoshop": "simple-icons:adobephotoshop",
         "Blender": "simple-icons:blender",
-        "Godot": "simple-icons:godot"
+        "Godot": "simple-icons:godotengine"
       }
     }
   ],
